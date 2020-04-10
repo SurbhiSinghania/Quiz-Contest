@@ -1,4 +1,4 @@
 # Quiz-Contest
-Created in PHP and MySql
-No login credential Required
-Easy to start ny just enterning your name.
+Created in PHP and MySql<br/>
+No login credential Required<br/>
+Easy to start by just enterning your name.<br/>
